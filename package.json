@@ -11,6 +11,11 @@
   "dependencies": {
     "@headlessui/react": "2.2.10",
     "@heroicons/react": "^2.0.16",
+<<<<<<< HEAD
+=======
+    "@react-oauth/google": "^0.13.5",
+    "@sentry/react": "10.54.0",
+>>>>>>> cc67f241 (Your commit message)
     "@studio-freight/lenis": "^1.0.42",
     "@tailwindcss/postcss": "4.3.0",
     "@vitejs/plugin-react": "6.0.2",
@@ -42,8 +47,12 @@
     "react-qr-code": "^2.0.21",
     "react-router-dom": "^7.15.1",
     "react-toastify": "^11.1.0",
+<<<<<<< HEAD
     "recharts": "^3.8.1",
     "vite": "8.0.14"
+=======
+    "recharts": "^3.8.1"
+>>>>>>> cc67f241 (Your commit message)
   },
   "scripts": {
     "dev": "vite",
